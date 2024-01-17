@@ -63,8 +63,7 @@ li {
 .esquerda {
     display: flex;
     flex-direction: column;
-    width: 10%;
-    background-color: red;
+    width: 35%;
 }
 
 p, h1 {
