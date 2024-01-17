@@ -63,7 +63,7 @@ li {
 .esquerda {
     display: flex;
     flex-direction: column;
-    gap: 10%;
+    width: 35%;
 }
 
 p, h1 {
